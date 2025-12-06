@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .DEALER one-word domains still available to buy.
 
-This dataset contains 4,927 .DEALER one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,928 .DEALER one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.DEALER one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=dealer-oneword-domains&utm_content=description.top) (4,927) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.DEALER one word domai
 
 | Domain            | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ----------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.dealer        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.dealer      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.dealer        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.dealer      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.dealer  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.dealer      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.dealer  | premium   | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.DEALER one word domai
 | abatic.dealer     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.dealer    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.dealer   | available | 50       | 1%     | 8      |           |         |         |
-| abc.dealer        | available | 102      | 41%    | 3      |           |         |         |
+| abc.dealer        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.dealer  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.dealer  | premium   | 82       | 5%     | 9      |           |         |         |
 | abdominous.dealer | available | 56       | 1%     | 10     |           |         |         |
