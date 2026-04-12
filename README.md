@@ -81,9 +81,9 @@ print(df.head())
 | xxv.dealer             | available | $350      | $3,799.99     | 66             | 11     | 3      | name.com  |
 | good.dealer            | premium   | $2,015    | $2,600        | 82             | 55     | 4      | namecheap |
 | orso.dealer            | available | $350      | $3,799.99     | 62             | 11     | 5      | name.com  |
-| zero.dealer            | premium   | $2,015    | $2,600        | 112            | 54     | 4      | namecheap |
-| whizz.dealer           | available | $350      | $3,799.99     | 98             | 10     | 5      | name.com  |
 | alpha.dealer           | premium   | $2,015    | $2,600        | 90             | 54     | 5      | namecheap |
+| whizz.dealer           | available | $350      | $3,799.99     | 98             | 10     | 5      | name.com  |
+| zero.dealer            | premium   | $2,015    | $2,600        | 112            | 53     | 4      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
