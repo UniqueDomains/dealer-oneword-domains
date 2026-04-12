@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .dealer one-word domains from Uniq
 
 **Public extract:** 9,918 rows · **Live catalog:** 9,918 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/dealer`  
 **Best for:** founders, investors, studios
 
@@ -66,24 +66,24 @@ print(df.head())
 | ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | realestate.dealer      | available | $2,348    | —             | —              | 40     | 11     | namecheap |
 | converse.dealer        | premium   | $2,015    | $2,600        | 64             | 73     | 8      | namecheap |
-| allegro.dealer         | available | $350      | $3,799.99     | 100            | 24     | 7      | name.com  |
+| allegro.dealer         | available | $350      | $3,799.99     | 100            | 23     | 7      | name.com  |
 | nationwide.dealer      | premium   | $2,015    | $2,600        | 76             | 66     | 10     | namecheap |
-| twentyone.dealer       | available | $350      | $3,799.99     | 84             | 16     | 10     | name.com  |
+| twentyone.dealer       | available | $350      | $3,799.99     | 84             | 15     | 10     | name.com  |
 | power.dealer           | premium   | $2,015    | $2,600        | 98             | 62     | 5      | namecheap |
-| twentytwo.dealer       | available | $350      | $3,799.99     | 84             | 14     | 10     | name.com  |
-| seventeen.dealer       | premium   | $2,015    | $2,600        | 84             | 62     | 9      | namecheap |
 | alamode.dealer         | available | $350      | $3,799.99     | 96             | 13     | 9      | name.com  |
+| seventeen.dealer       | premium   | $2,015    | $2,600        | 84             | 62     | 9      | namecheap |
+| twentytwo.dealer       | available | $350      | $3,799.99     | 84             | 12     | 10     | name.com  |
 | free.dealer            | premium   | $2,015    | $2,600        | 88             | 59     | 4      | namecheap |
-| alltime.dealer         | available | $350      | $3,799.99     | 72             | 13     | 8      | name.com  |
+| alltime.dealer         | available | $350      | $3,799.99     | 72             | 12     | 8      | name.com  |
 | cloud.dealer           | premium   | $2,015    | $2,600        | 70             | 59     | 5      | namecheap |
-| whizz.dealer           | available | $350      | $3,799.99     | 98             | 11     | 5      | name.com  |
-| ace.dealer             | premium   | $2,015    | $2,600        | 88             | 57     | 3      | namecheap |
 | bedandbreakfast.dealer | available | $2,348    | —             | 74             | 11     | 17     | namecheap |
-| good.dealer            | premium   | $2,015    | $2,600        | 82             | 55     | 4      | namecheap |
+| ace.dealer             | premium   | $2,015    | $2,600        | 88             | 57     | 3      | namecheap |
 | xxv.dealer             | available | $350      | $3,799.99     | 66             | 11     | 3      | name.com  |
-| zero.dealer            | premium   | $2,015    | $2,600        | 112            | 53     | 4      | namecheap |
+| good.dealer            | premium   | $2,015    | $2,600        | 82             | 55     | 4      | namecheap |
 | orso.dealer            | available | $350      | $3,799.99     | 62             | 11     | 5      | name.com  |
-| business.dealer        | premium   | $2,015    | $2,600        | 100            | 53     | 8      | namecheap |
+| zero.dealer            | premium   | $2,015    | $2,600        | 112            | 54     | 4      | namecheap |
+| whizz.dealer           | available | $350      | $3,799.99     | 98             | 10     | 5      | name.com  |
+| alpha.dealer           | premium   | $2,015    | $2,600        | 90             | 54     | 5      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEALER One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEALER One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
