@@ -73,11 +73,11 @@ print(df.head())
 | alamode.dealer         | available | $350      | $3,799.99     | 96             | 13     | 9      | name.com  |
 | seventeen.dealer       | premium   | $2,015    | $2,600        | 84             | 62     | 9      | namecheap |
 | twentytwo.dealer       | available | $350      | $3,799.99     | 84             | 12     | 10     | name.com  |
-| free.dealer            | premium   | $2,015    | $2,600        | 88             | 59     | 4      | namecheap |
-| alltime.dealer         | available | $350      | $3,799.99     | 72             | 12     | 8      | name.com  |
 | cloud.dealer           | premium   | $2,015    | $2,600        | 70             | 59     | 5      | namecheap |
-| bedandbreakfast.dealer | available | $2,348    | —             | 74             | 11     | 17     | namecheap |
+| alltime.dealer         | available | $350      | $3,799.99     | 72             | 12     | 8      | name.com  |
 | ace.dealer             | premium   | $2,015    | $2,600        | 88             | 57     | 3      | namecheap |
+| bedandbreakfast.dealer | available | $2,348    | —             | 74             | 11     | 17     | namecheap |
+| free.dealer            | premium   | $2,015    | $2,600        | 88             | 57     | 4      | namecheap |
 | xxv.dealer             | available | $350      | $3,799.99     | 66             | 11     | 3      | name.com  |
 | good.dealer            | premium   | $2,015    | $2,600        | 82             | 55     | 4      | namecheap |
 | whizz.dealer           | available | $350      | $3,799.99     | 98             | 10     | 5      | name.com  |
