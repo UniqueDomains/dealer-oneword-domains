@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .dealer one-word domains from Uniq
 
 **Public extract:** 9,918 rows · **Live catalog:** 9,918 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/dealer`  
 **Best for:** founders, investors, studios
 
@@ -80,10 +80,10 @@ print(df.head())
 | ace.dealer             | premium   | $2,015    | $2,600        | 88             | 57     | 3      | namecheap |
 | xxv.dealer             | available | $350      | $3,799.99     | 66             | 11     | 3      | name.com  |
 | good.dealer            | premium   | $2,015    | $2,600        | 82             | 55     | 4      | namecheap |
-| orso.dealer            | available | $350      | $3,799.99     | 62             | 11     | 5      | name.com  |
-| alpha.dealer           | premium   | $2,015    | $2,600        | 90             | 54     | 5      | namecheap |
 | whizz.dealer           | available | $350      | $3,799.99     | 98             | 10     | 5      | name.com  |
 | zero.dealer            | premium   | $2,015    | $2,600        | 112            | 53     | 4      | namecheap |
+| cooldown.dealer        | available | $350      | $3,799.99     | 70             | 10     | 9      | name.com  |
+| business.dealer        | premium   | $2,015    | $2,600        | 100            | 53     | 8      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEALER One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEALER One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
