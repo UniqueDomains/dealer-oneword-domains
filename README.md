@@ -1,10 +1,10 @@
-# Available .DEALER One-Word Domains (12,303)
+# Available .DEALER One-Word Domains (12,914)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C303%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C914%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .dealer one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,303 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,914 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,303 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,914 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/dealer`  
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | CocaCola.dealer      | available | $2,348    | —             | 92             | 82     | 9      | namecheap |
-| winners.dealer       | premium   | $2,170    | $2,800        | 60             | 81     | 7      | namecheap |
+| hotels.dealer        | premium   | $2,170    | $2,800        | 64             | 82     | 6      | namecheap |
 | RedSox.dealer        | available | $2,348    | —             | 72             | 60     | 7      | namecheap |
-| makers.dealer        | premium   | $2,170    | $2,800        | 62             | 67     | 6      | namecheap |
+| winners.dealer       | premium   | $2,170    | $2,800        | 60             | 81     | 7      | namecheap |
 | keepthechange.dealer | available | $350      | —             | 46             | 59     | 15     | name.com  |
-| donuts.dealer        | premium   | $2,170    | $2,800        | 54             | 62     | 6      | namecheap |
+| makers.dealer        | premium   | $2,170    | $2,800        | 62             | 67     | 6      | namecheap |
 | matcha.dealer        | available | $350      | —             | 86             | 39     | 6      | name.com  |
-| regions.dealer       | premium   | $2,170    | $2,800        | 64             | 59     | 7      | namecheap |
+| donuts.dealer        | premium   | $2,170    | $2,800        | 54             | 62     | 6      | namecheap |
 | whynot.dealer        | available | $350      | —             | 74             | 39     | 7      | name.com  |
-| farmers.dealer       | premium   | $2,170    | $2,800        | 54             | 59     | 7      | namecheap |
+| regions.dealer       | premium   | $2,170    | $2,800        | 64             | 59     | 7      | namecheap |
 | commonground.dealer  | available | $350      | —             | 74             | 28     | 13     | name.com  |
-| agents.dealer        | premium   | $2,170    | $2,800        | 56             | 50     | 6      | namecheap |
-| Trex.dealer          | available | $2,348    | —             | 80             | 24     | 5      | namecheap |
-| cars.dealer          | premium   | $2,170    | $2,800        | 66             | 47     | 4      | namecheap |
+| farmers.dealer       | premium   | $2,170    | $2,800        | 54             | 59     | 7      | namecheap |
 | rekt.dealer          | available | $350      | —             | 40             | 24     | 4      | name.com  |
 | Ryan.dealer          | premium   | $2,170    | $2,800        | 60             | 44     | 4      | namecheap |
-| inhouse.dealer       | available | $350      | —             | 70             | 23     | 8      | name.com  |
-| jobs.dealer          | premium   | $2,170    | $2,800        | 79             | 42     | 4      | namecheap |
 | webshop.dealer       | available | $350      | —             | 76             | 22     | 8      | name.com  |
+| jobs.dealer          | premium   | $2,170    | $2,800        | 79             | 42     | 4      | namecheap |
+| HarryPotter.dealer   | available | $2,348    | —             | 72             | 20     | 12     | namecheap |
 | shortcuts.dealer     | premium   | $2,170    | $2,800        | 48             | 41     | 10     | namecheap |
+| gobeyond.dealer      | available | $350      | —             | 76             | 18     | 9      | name.com  |
+| lets.dealer          | premium   | $2,170    | $2,800        | 77             | 39     | 4      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,303 live domains                              |
+| 1,000-row public sample | 12,914 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEALER One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEALER One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
