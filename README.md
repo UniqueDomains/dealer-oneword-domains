@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .dealer one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,914 domains · **Median ask:** $1,390.94 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/dealer`  
 **Best for:** founders, investors, studios
 
@@ -70,9 +70,9 @@ print(df.head())
 | winners.dealer       | premium   | $2,170    | $2,800        | 60             | 81     | 7      | namecheap |
 | keepthechange.dealer | available | $350      | —             | 46             | 59     | 15     | name.com  |
 | makers.dealer        | premium   | $2,170    | $2,800        | 62             | 67     | 6      | namecheap |
-| matcha.dealer        | available | $350      | —             | 86             | 39     | 6      | name.com  |
+| whynot.dealer        | available | $350      | —             | 74             | 44     | 7      | name.com  |
 | donuts.dealer        | premium   | $2,170    | $2,800        | 54             | 62     | 6      | namecheap |
-| whynot.dealer        | available | $350      | —             | 74             | 39     | 7      | name.com  |
+| matcha.dealer        | available | $350      | —             | 86             | 39     | 6      | name.com  |
 | regions.dealer       | premium   | $2,170    | $2,800        | 64             | 59     | 7      | namecheap |
 | commonground.dealer  | available | $350      | —             | 74             | 28     | 13     | name.com  |
 | farmers.dealer       | premium   | $2,170    | $2,800        | 54             | 59     | 7      | namecheap |
@@ -82,7 +82,7 @@ print(df.head())
 | jobs.dealer          | premium   | $2,170    | $2,800        | 79             | 42     | 4      | namecheap |
 | HarryPotter.dealer   | available | $2,348    | —             | 72             | 20     | 12     | namecheap |
 | shortcuts.dealer     | premium   | $2,170    | $2,800        | 48             | 41     | 10     | namecheap |
-| gobeyond.dealer      | available | $350      | —             | 76             | 18     | 9      | name.com  |
+| gobeyond.dealer      | available | $350      | —             | 76             | 19     | 9      | name.com  |
 | lets.dealer          | premium   | $2,170    | $2,800        | 77             | 39     | 4      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEALER One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEALER One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
