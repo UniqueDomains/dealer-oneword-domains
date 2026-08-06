@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .dealer one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,914 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,914 domains · **Median ask:** $1,499.46 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,914 domains · **Median ask:** $1,436.66 · **High-demand under $2,500:** 75
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/dealer`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| aftuh.dealer   | available | $350      | —             | medium         | low    | 5      | name.com  |
-| ace.dealer     | premium   | $2,015    | $2,600        | high           | medium | 3      | namecheap |
-| onec.dealer    | available | $350      | $3,799.99     | low            | low    | 5      | name.com  |
-| bad.dealer     | premium   | $2,170    | $2,800        | high           | medium | 3      | namecheap |
-| abasic.dealer  | available | $2,348    | —             | medium         | low    | 6      | namecheap |
-| BBC.dealer     | premium   | $2,170    | $2,800        | high           | medium | 3      | namecheap |
-| butif.dealer   | available | $350      | —             | medium         | low    | 6      | name.com  |
-| btw.dealer     | premium   | $2,170    | $2,800        | high           | low    | 3      | namecheap |
-| gobad.dealer   | available | $350      | —             | high           | low    | 6      | name.com  |
-| cap.dealer     | premium   | $2,170    | $2,800        | high           | low    | 3      | namecheap |
-| gramme.dealer  | available | $350      | —             | medium         | low    | 6      | name.com  |
-| egg.dealer     | premium   | $2,170    | $2,800        | high           | low    | 3      | namecheap |
-| mouthy.dealer  | available | $350      | —             | low            | low    | 6      | name.com  |
-| Eid.dealer     | premium   | $2,170    | $2,800        | high           | low    | 3      | namecheap |
-| putup.dealer   | available | $350      | —             | high           | low    | 6      | name.com  |
-| fly.dealer     | premium   | $2,170    | $2,800        | high           | low    | 3      | namecheap |
-| abenaki.dealer | available | $2,198    | —             | high           | low    | 7      | namecheap |
-| gay.dealer     | premium   | $2,170    | $2,800        | high           | medium | 3      | namecheap |
-| atwill.dealer  | available | $350      | —             | medium         | low    | 7      | name.com  |
-| had.dealer     | premium   | $2,170    | $2,800        | high           | low    | 3      | namecheap |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| just.dealer   | premium   | $2,170    | $2,800        | high           | medium | 4      | namecheap |
+| bad.dealer    | premium   | $2,170    | $2,800        | high           | medium | 3      | namecheap |
+| time.dealer   | premium   | $2,170    | $2,800        | high           | medium | 4      | namecheap |
+| eyry.dealer   | available | $350      | $3,799.99     | low            | low    | 4      | name.com  |
+| ace.dealer    | premium   | $2,015    | $2,600        | high           | medium | 3      | namecheap |
+| xcii.dealer   | available | $350      | $3,799.99     | low            | low    | 4      | name.com  |
+| aftuh.dealer  | available | $350      | —             | medium         | low    | 5      | name.com  |
+| BBC.dealer    | premium   | $2,170    | $2,800        | high           | medium | 3      | namecheap |
+| aleut.dealer  | available | $350      | $3,799.99     | low            | low    | 5      | name.com  |
+| btw.dealer    | premium   | $2,170    | $2,800        | high           | low    | 3      | namecheap |
+| amnic.dealer  | available | $350      | $3,799.99     | low            | low    | 5      | name.com  |
+| cap.dealer    | premium   | $2,170    | $2,800        | high           | low    | 3      | namecheap |
+| octet.dealer  | available | $350      | $3,799.99     | low            | low    | 5      | name.com  |
+| egg.dealer    | premium   | $2,170    | $2,800        | high           | low    | 3      | namecheap |
+| onec.dealer   | available | $350      | $3,799.99     | low            | low    | 5      | name.com  |
+| Eid.dealer    | premium   | $2,170    | $2,800        | high           | low    | 3      | namecheap |
+| abasic.dealer | available | $350      | $3,799.99     | low            | low    | 6      | name.com  |
+| fly.dealer    | premium   | $2,170    | $2,800        | high           | low    | 3      | namecheap |
+| abnaki.dealer | available | $350      | $3,799.99     | low            | low    | 6      | name.com  |
+| gay.dealer    | premium   | $2,170    | $2,800        | high           | medium | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -95,7 +95,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 | ----------------------- | ------------------------------------------ |
 | 1,000-row public sample | 12,914 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 75 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEALER One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEALER One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
