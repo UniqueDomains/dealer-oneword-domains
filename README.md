@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .dealer one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 23,865 domains · **Median ask:** $1,305.86 · **High-demand under $2,500:** 101
 
-**Last updated:** 2026-09-12
+**Last updated:** 2026-09-13
 **Canonical page:** `https://unique.domains/domains/tld/dealer`
 **Best for:** founders, investors, studios
 
@@ -71,7 +71,7 @@ print(df.head())
 | aftuh.dealer  | available | $350      | —             | medium         | low    | 5      | name.com  |
 | bad.dealer    | premium   | $2,170    | $2,800        | high           | medium | 3      | namecheap |
 | aleut.dealer  | available | $350      | $3,799.99     | low            | low    | 5      | name.com  |
-| BBC.dealer    | premium   | $2,170    | $2,800        | high           | medium | 3      | namecheap |
+| BBC.dealer    | premium   | $2,015    | $2,600        | medium         | medium | 3      | namecheap |
 | amnic.dealer  | available | $350      | $3,799.99     | low            | low    | 5      | name.com  |
 | btw.dealer    | premium   | $2,170    | $2,800        | high           | low    | 3      | namecheap |
 | atilt.dealer  | available | $350      | $3,799.99     | low            | low    | 5      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEALER One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEALER One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
