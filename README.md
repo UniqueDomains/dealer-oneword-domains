@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .dealer one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,152 domains · **Median ask:** $1,328.35 · **High-demand under $2,500:** 102
 
-**Last updated:** 2026-09-17
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/dealer`
 **Best for:** founders, investors, studios
 
@@ -64,12 +64,13 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| just.dealer   | premium   | $2,170    | $2,800        | high           | medium | 4      | namecheap |
+| bad.dealer    | premium   | $2,170    | $2,800        | high           | medium | 3      | namecheap |
 | eyry.dealer   | available | $350      | $3,799.99     | low            | low    | 4      | name.com  |
 | ace.dealer    | premium   | $2,015    | $2,600        | high           | medium | 3      | namecheap |
 | xcii.dealer   | available | $350      | $3,799.99     | low            | low    | 4      | name.com  |
 | ass.dealer    | premium   | $2,015    | $2,600        | low            | low    | 3      | namecheap |
 | aftuh.dealer  | available | $350      | —             | medium         | low    | 5      | name.com  |
-| bad.dealer    | premium   | $2,170    | $2,800        | high           | medium | 3      | namecheap |
 | aleut.dealer  | available | $350      | $3,799.99     | low            | low    | 5      | name.com  |
 | BBC.dealer    | premium   | $2,015    | $2,600        | medium         | medium | 3      | namecheap |
 | amnic.dealer  | available | $350      | $3,799.99     | low            | low    | 5      | name.com  |
@@ -83,7 +84,6 @@ print(df.head())
 | onec.dealer   | available | $350      | $3,799.99     | low            | low    | 5      | name.com  |
 | fly.dealer    | premium   | $2,170    | $2,800        | high           | low    | 3      | namecheap |
 | abasic.dealer | available | $350      | $3,799.99     | low            | low    | 6      | name.com  |
-| gay.dealer    | premium   | $2,170    | $2,800        | high           | medium | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEALER One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEALER One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
