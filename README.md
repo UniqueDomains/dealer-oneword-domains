@@ -1,10 +1,10 @@
-# Available .DEALER One-Word Domains (33,135)
+# Available .DEALER One-Word Domains (34,678)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C135%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-34%2C678%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .dealer one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **33,135 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **34,678 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 33,135 domains · **Median ask:** $2,326.18 · **High-demand under $2,500:** 130
+**Public extract:** 1,000 rows · **Live catalog:** 34,678 domains · **Median ask:** $2,331.15 · **High-demand under $2,500:** 136
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/dealer`
 **Best for:** founders, investors, studios
 
@@ -66,24 +66,24 @@ print(df.head())
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | aro.dealer  | available | $258.95   | $2,052.90     | high           | low    | 3      | spaceship |
 | abe.dealer  | premium   | $4,278    | $2,660        | high           | low    | 3      | namesilo  |
-| iit.dealer  | available | $258.95   | $2,052.90     | high           | low    | 3      | spaceship |
+| aut.dealer  | available | $258.95   | $2,052.90     | high           | low    | 3      | spaceship |
 | ail.dealer  | premium   | $2,015    | $2,600        | high           | low    | 3      | namecheap |
-| yob.dealer  | available | $350      | $3,799.99     | medium         | low    | 3      | name.com  |
+| ctv.dealer  | available | $258.95   | $2,052.90     | high           | low    | 3      | spaceship |
 | ain.dealer  | premium   | $2,015    | $2,600        | high           | low    | 3      | namecheap |
-| akko.dealer | available | $2,099    | $2,099        | medium         | low    | 4      | namesilo  |
+| iit.dealer  | available | $258.95   | $2,052.90     | high           | low    | 3      | spaceship |
 | chs.dealer  | premium   | $1,604.45 | $2,070.20     | high           | low    | 3      | spaceship |
-| ambo.dealer | available | $2,099    | $2,099        | medium         | low    | 4      | namesilo  |
+| imd.dealer  | available | $258.95   | $2,052.90     | high           | low    | 3      | spaceship |
 | dad.dealer  | premium   | $2,015    | $2,600        | high           | low    | 3      | namecheap |
-| baht.dealer | available | $498      | $2,348        | high           | low    | 4      | namecheap |
+| mbc.dealer  | available | $2,099    | $2,099        | high           | low    | 3      | namesilo  |
+| dbs.dealer  | premium   | $1,604.45 | $2,070.20     | high           | low    | 3      | spaceship |
+| yob.dealer  | available | $350      | $3,799.99     | medium         | low    | 3      | name.com  |
 | des.dealer  | premium   | $1,604.45 | $2,070.20     | high           | low    | 3      | spaceship |
-| kyiv.dealer | available | $2,099    | $2,099        | high           | low    | 4      | namesilo  |
+| akko.dealer | available | $2,099    | $2,099        | medium         | low    | 4      | namesilo  |
 | duo.dealer  | premium   | $4,278    | $2,660        | high           | high   | 3      | namesilo  |
-| lapp.dealer | available | $2,099    | $2,099        | medium         | low    | 4      | namesilo  |
+| ambo.dealer | available | $2,099    | $2,099        | medium         | low    | 4      | namesilo  |
 | epr.dealer  | premium   | $2,140.22 | $2,140.22     | high           | low    | 3      | dynadot   |
-| nkvd.dealer | available | $498      | $2,348        | medium         | low    | 4      | namecheap |
+| baht.dealer | available | $498      | $2,348        | high           | low    | 4      | namecheap |
 | fil.dealer  | premium   | $4,278    | $2,660        | high           | low    | 3      | namesilo  |
-| xlii.dealer | available | $350      | $3,799.99     | medium         | low    | 4      | name.com  |
-| hal.dealer  | premium   | $4,278    | $2,660        | high           | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 33,135 live domains                        |
+| 1,000-row public sample | 34,678 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 130 high-demand names under $2,500         |
+| Basic exported fields   | 136 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEALER One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEALER One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
